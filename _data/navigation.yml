@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Corp. Risks"
-    url: /doc/history/
-   - title: "Categories"
+    url: /history/
+  - title: "Categories"
     url: /categories/
 
