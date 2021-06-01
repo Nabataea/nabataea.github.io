@@ -1,6 +1,7 @@
 # main links
 main:
-  - title: "About"
-    # url: /about/
   - title: "Corp. Risks"
     url: /doc/history
+   - title: "Categories"
+    url: /categories/
+
