@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+    # url: /about/
+  - title: "Corp. Risks"
+    url: /doc/history
